@@ -67,6 +67,9 @@ span{
     display: flex;
     margin: 20px 0 40px;
 }
+.tab-titles p{
+    color: #000;
+}
 .tab-titles li{
     color: black;
 }
@@ -74,16 +77,25 @@ span{
     display: flex;
     margin: 20px 0 40px;
 }
+.tab-contents p{
+    color: #000;
+}
 .tab-ep{
     display: flex;
     margin: 20px 0 40px;
     padding: 0;
+}
+.tab-ep p{
+    color: #000;
 }
 .tab-links{
     display: flex;
     margin: 20px 0 40px;
     color: black;
     font-weight: 600;
+}
+.tab-links p{
+    color: #000;
 }
 .tab-links ul{
     color: black;
